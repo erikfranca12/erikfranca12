@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Érik França 👋
 
+-    Formado em Ciências Contábeis pela Universidade Federal de Juiz de Fora (UFJF)       
 - 🌱 Atualmente, estou aprendendo SQL.
-- 😄 Pronome: ele/dele
+- 😄 Pronome: ele/dele 
 
 <div> 
 
