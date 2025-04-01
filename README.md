@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Érik França 👋
 
-- 🌱 Atualmente, estou aprendendo Python.
+- 🌱 Atualmente, estou aprendendo SQL.
 - 😄 Pronome: ele/dele
 
 <div> 
